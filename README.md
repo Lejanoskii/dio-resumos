@@ -1,4 +1,4 @@
-\#DIO Resumos GIT e GITHUB
+# DIO Resumos GIT e GITHUB
 
 
 
@@ -6,21 +6,21 @@ Repositório armazenar resumos\[Digital Innovation ONE(https://web.dio.me/)].
 
 
 
-\## Doc
+## Doc
 
-\- \[Doc git]{https://git-scm.com/doc}
+[Doc git]{https://git-scm.com/doc}
 
-\- \[Doc Github]{https://docs.github.com/}
+ [Doc Github]{https://docs.github.com/}
 
 
 
-\## Resumos
+## Resumos
 
 
 
 | Aulas | Resumos |
 
-|-------|---------|
+|AULA 01 |---------|
 
 | Gravando alterações repositório local| {Resumos} ()|
 
